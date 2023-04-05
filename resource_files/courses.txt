@@ -1,0 +1,36 @@
+coursesByYear = {
+    'freshman': [
+        "Algorithms", 
+        "Data Structures", 
+        "Computer Science I", 
+        "Computer Science I Lab",
+        "Calculus I",
+        "Statistics and Probability",
+        "Introduction to Computer Networking"
+    ],
+    'sophomore': [
+        "Introduction to Databases", 
+        "Computer Science II",
+        "Computer Science II Lab",
+        "Calculus II",
+        "Discrete Structures",
+        "Object-Oriented Programming I with Java",
+        "Object-Oriented Programming I with C++"
+    ],
+    'junior': [
+        "Rich Internet Web Development", 
+        "Back-end Web Development", 
+        "Data Modeling",
+        "Advanced Calculus",
+        "Object-Oriented Programming II",
+        "Database Systems Design I"
+    ],
+    'senior': [
+        "Database Systems Design II",
+        "Introduction to Cybersecurity",
+        "Machine Learning I",
+        "System Design and Architecture",
+        "Practicum - Computer Science Internship",
+        "Practicum - Supervised On-site Research"
+    ]
+}
