@@ -11,6 +11,14 @@ This is the starter code that can be used to build the Student Registration Appl
 
 ### Executing program
 
+To ensure all packages are installed, cd into the top-level project folder, then run:
+
+```
+npm install
+```
+
+To execute the program, run:
+
 ```
 npm start
 ```
